@@ -63,5 +63,20 @@
 > https://react-native.rocketseat.dev/
 
 
+## Expo dev clint
 
+
+É uma ótima opção para criar uma vesão do expo go customizada, e com o comando :
+
+```
+  npx expo run:android
+```
+
+é gerado um pacote de configurações com as dependencias do momento em que foi usado o comando, se por acaso uma nova lib for adicionada é necessario usar o pre build novamente
+
+* ### Instalando o dev client
+
+```
+  npx expo install expo-dev-client 
+```
 
